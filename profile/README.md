@@ -4,7 +4,7 @@
 ---
 
 ## Greetings from us
-Hello everyone! We are from capstone team **A25-CS052**, consisting of five students from various universities in Indonesia.  
+Hello everyone! We are from capstone team **A25-CS052**, consisting of five students from two universities in Indonesia.  
 
 | **ID** | **Name** | **Learning Path** | **University** |
 | :------------- | :------------------------------- | :--------------------------- | :---------------------------------- |
